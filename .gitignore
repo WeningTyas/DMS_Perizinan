@@ -1,8 +1,8 @@
 ## File yg gak boleh diapa-apain lagi!! ##
-#/pom.xml
-#/src/main/**/drivers/*
-#/src/main/**/utils/Constants.java
-#/src/test/**/Hooks.java
+/pom.xml
+/src/main/**/drivers/*
+/src/main/**/utils/Constants.java
+/src/test/**/Hooks.java
 /target/*
 /FailedTestScreenshot
 
